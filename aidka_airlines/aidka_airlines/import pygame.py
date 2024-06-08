@@ -46,7 +46,7 @@ player_image = pygame.transform.scale(player_image, (player_size, player_size))
 
 
 
-
+sdfsf = 2
 
 # Счет
 score = 0
