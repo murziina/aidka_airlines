@@ -66,6 +66,7 @@ def detect_collision(player_pos, enemy_pos):
     return False
 
 def show_game_over_screen():
+    print('hallo')
     screen.fill(black)
     game_over_font = pygame.font.SysFont("Arial", 30)
     game_over_text = game_over_font.render("Game Over!", True, white)
